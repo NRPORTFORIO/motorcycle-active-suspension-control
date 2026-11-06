@@ -29,3 +29,7 @@
 <p style=“font-size: 20px;>・【工夫した点】： 単にログをグラフ化するだけでなく、法規や社内基準を満たしているかをシステム側で自動演算し、ログから 【PASS】 / 【FAIL】 を自動合否判定する仕組みを創った点です。評価・テスト業務の本質である「客観的な適合評価」を意識して構築しました。</p>
 <p style=“font-size: 40px;>GitHubを用いた構成管理およびREADME（仕様・設計思想）のドキュメント化</p>
 アドレス、ポインタ、構造体（int/char/boolのデータ集約）、ビット演算を用いたレジスタ制御挙動の徹底再現
+
+### System Operation Verification  ###
+![Wandboxでの動作検証画面](IMG_0207.png)
+<figure>c言語</figure>
