@@ -33,3 +33,6 @@
 ### System Operation Verification  ###
 ![Wandboxでの動作検証画面](IMG_0207.png)
 <figure>c言語</figure>
+
+![Wandboxでの動作検証画面](IMG_0208.png)
+<figure>Python</figure>
